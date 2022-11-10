@@ -13,7 +13,7 @@ services:
       - Ray_Security__IsSkipDailyTask=false
 
       # Cookie字符串（必填）：
-      - Ray_BiliBiliCookies__1=buvid3=1218F673-DD8E-1F13-447D-60EAC605FF8761986infoc; _uuid=587D23E10-4E8F-915E-335C-23317EAD7D5862970infoc; buvid4=092963FD-D51B-B30D-A0BA-D4D2E871758A63459-022050108-ySeTgKD2W0XWzxiyWfRQIw%3D%3D; rpdid=|(k||)JmmY|J0J'uYluJYl)Yl; buvid_fp_plain=undefined; hit-dyn-v2=1; nostalgia_conf=-1; CURRENT_BLACKGAP=0; blackside_state=0; LIVE_BUVID=AUTO3716531061122114; i-wanna-go-back=-1; go_old_video=1; CURRENT_QUALITY=116; b_nut=100; fingerprint3=231ca5a0c24677f11380a8aad0d0b6ce; PVID=1; CURRENT_FNVAL=4048; hit-new-style-dyn=0; innersign=0; bsource=search_bing; b_lsid=B10B8BE101_184619A5F52; bp_video_offset_376300508=726902959953150000; fingerprint=18ae94e208afad7a1824bf57fae35364; SESSDATA=ac37d716%2C1683638306%2Cb27ee%2Ab1; bili_jct=7e10a53b6835eccd15b40c2202b96b7d; DedeUserID=376300508; DedeUserID__ckMd5=2d1f94fe8f309644; sid=8rafhk00; buvid_fp=faf5ce0e3849e7e6ae9648eccac33cd7; b_ut=5
+      - Ray_BiliBiliCookies__1=
 
       - Ray_BiliBiliCookies__2=
 

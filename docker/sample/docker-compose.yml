@@ -13,7 +13,8 @@ services:
       - Ray_Security__IsSkipDailyTask=false
 
       # Cookie字符串（必填）：
-      - Ray_BiliBiliCookies__1=_buvid3=1218F673-DD8E-1F13-447D-60EAC605FF8761986infoc; _uuid=587D23E10-4E8F-915E-335C-23317EAD7D5862970infoc; buvid4=092963FD-D51B-B30D-A0BA-D4D2E871758A63459-022050108-ySeTgKD2W0XWzxiyWfRQIw%3D%3D; rpdid=|(k||)JmmY|J0J'uYluJYl)Yl; buvid_fp_plain=undefined; hit-dyn-v2=1; nostalgia_conf=-1; CURRENT_BLACKGAP=0; blackside_state=0; LIVE_BUVID=AUTO3716531061122114; i-wanna-go-back=-1; go_old_video=1; CURRENT_QUALITY=116; b_nut=100; fingerprint3=231ca5a0c24677f11380a8aad0d0b6ce; fingerprint=2cd739a92c3194c92790c0e28cbb247b; buvid_fp=2cd739a92c3194c92790c0e28cbb247b; DedeUserID=376300508; DedeUserID__ckMd5=2d1f94fe8f309644; b_ut=5; PVID=1; CURRENT_FNVAL=4048; hit-new-style-dyn=0; bp_video_offset_376300508=725289074458361900; SESSDATA=cd07b630%2C1683592692%2Cc1f79%2Ab1; bili_jct=642c173e1b35562cbe9a44bd54285948; sid=5zf17cc6
+      - Ray_BiliBiliCookies__1=buvid3=1218F673-DD8E-1F13-447D-60EAC605FF8761986infoc; _uuid=587D23E10-4E8F-915E-335C-23317EAD7D5862970infoc; buvid4=092963FD-D51B-B30D-A0BA-D4D2E871758A63459-022050108-ySeTgKD2W0XWzxiyWfRQIw%3D%3D; rpdid=|(k||)JmmY|J0J'uYluJYl)Yl; buvid_fp_plain=undefined; hit-dyn-v2=1; nostalgia_conf=-1; CURRENT_BLACKGAP=0; blackside_state=0; LIVE_BUVID=AUTO3716531061122114; i-wanna-go-back=-1; go_old_video=1; CURRENT_QUALITY=116; b_nut=100; fingerprint3=231ca5a0c24677f11380a8aad0d0b6ce; fingerprint=2cd739a92c3194c92790c0e28cbb247b; buvid_fp=2cd739a92c3194c92790c0e28cbb247b; DedeUserID=376300508; DedeUserID__ckMd5=2d1f94fe8f309644; b_ut=5; PVID=1; CURRENT_FNVAL=4048; hit-new-style-dyn=0; bp_video_offset_376300508=725289074458361900; SESSDATA=cd07b630%2C1683592692%2Cc1f79%2Ab1; bili_jct=642c173e1b35562cbe9a44bd54285948; sid=5zf17cc6; b_lsid=7CCDE64F_1846095BB1B; bsource=search_bing; innersign=0
+
       - Ray_BiliBiliCookies__2=
 
       # 定时任务

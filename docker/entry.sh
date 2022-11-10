@@ -2,7 +2,7 @@
 set -e
 
 # https://stackoverflow.com/questions/27771781/how-can-i-access-docker-set-environment-variables-from-a-cron-job
-echo "[step 1/4]导入环境变量"
+echo "[step 1/4]114514导入环境变量"
 printenv | grep -v "no_proxy" > /etc/environment
 declare -p | grep -v "no_proxy" > /etc/cron.env
 echo "=>完成"
